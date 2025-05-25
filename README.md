@@ -26,4 +26,5 @@ AgriGrow is an all-in-one intelligent web application built to empower farmers w
 - **Computer Vision:** OpenCV  
 
 ---
-![Uploading agrigrow.png…]()
+
+![agrigrow](https://github.com/user-attachments/assets/345e6923-b0b7-4479-9bf3-97a5bc1131c5)
